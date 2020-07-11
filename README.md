@@ -11,3 +11,4 @@
 #### 📣 Be the best version of you
 
 * 👩🏻‍💻  &nbsp; I’m currently learning **Go, AWS, Docker**
+* 💜&nbsp; I'm interested in **Book, Illustration, International Relations, Jazz**
