@@ -2,8 +2,10 @@
 
 # Drink with Me
 
-  [![LinkedIn Connect](https://img.shields.io/badge/%20-LinkedIn-black?color=0E76A8&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/irentre/) &nbsp;
-  [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:itbiz.irs@gmail.com?subject=From%20GitHub&body=Hi,%208luebottle.%20Found%20you%20from%20GitHub.)
+  ![Made with love by 8luebottle](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8Fby-%208luebottle%20-blue) &nbsp;
+  [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:itbiz.irs@gmail.com?subject=From%20GitHub&body=Hi,%208luebottle.%20Found%20you%20from%20GitHub.) &nbsp;
+   [![LinkedIn Connect](https://img.shields.io/badge/%20-LinkedIn-black?color=0E76A8&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/irentre/) 
+  
 
 #### 📣 Be the best version of you
 
