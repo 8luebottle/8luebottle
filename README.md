@@ -1,4 +1,4 @@
-<img width="333" alt="8luebottle" align="right" src="https://user-images.githubusercontent.com/48475824/87166058-f91e8080-c305-11ea-8b80-c2f6f0818499.png">
+<img width="333" alt="8luebottle" align="right" src="https://user-images.githubusercontent.com/48475824/87215634-674d5c80-c373-11ea-841f-23a8596db286.gif">
 
 # Drink with Me
 
@@ -8,4 +8,3 @@
 #### 📣 Be the best version of you
 
 * 👩🏻‍💻  &nbsp; I’m currently learning **Go, AWS, Docker**
-
