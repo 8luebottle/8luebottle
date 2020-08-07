@@ -10,5 +10,5 @@
 
 #### 📣 Be the best version of you
 
-* 👩🏻‍💻  &nbsp; I’m currently learning **Go, AWS, Docker**
-* 💜&nbsp; I'm interested in **Book, Illustration, International Relations, Jazz**
+* 👩🏻‍💻  &nbsp; I’m currently learning **[Go](https://github.com/8luebottle/8luebottle/wiki/Go), AWS,** and **Docker**
+* 💜&nbsp; I'm interested in **Book, Illustration, International Relations,** and  **Jazz**
