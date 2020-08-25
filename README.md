@@ -9,7 +9,8 @@
 
 #### 🙌  Hi, I'm ENTJ-T
 
-#### 📣 Be the best version of you
+#### 📣  &nbsp; Be the best version of you
+#### 📣  &nbsp; 学而时习之，不亦说乎
 
 * 👩🏻‍💻  &nbsp; I’m currently learning **[Go](https://github.com/8luebottle/8luebottle/wiki/Go), AWS,** and **Docker**
 * 💜&nbsp; I'm interested in **Book, Illustration, International Relations,** and  **Jazz**
