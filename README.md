@@ -12,8 +12,8 @@
 #### 📣  &nbsp; 学而时习之，不亦说乎
 
 
-* 👩🏻‍💻  &nbsp; I’m currently learning **[Go](https://github.com/8luebottle/8luebottle/wiki/Go), AWS,** and **Docker**
-* 💜 &nbsp; I'm interested in **Book, Illustration, International Relations,** and  **Jazz**
+* 👩🏻‍💻  &nbsp; currently learning **[Go](https://github.com/8luebottle/8luebottle/wiki/Go), AWS, Docker**
+* 💜 &nbsp; interested in **Book, Illustration, International Relations, Jazz**
 <br>
 
 <p>
