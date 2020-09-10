@@ -13,7 +13,7 @@
 
 
 * 👩🏻‍💻  &nbsp; currently learning **[Go](https://github.com/8luebottle/8luebottle/wiki/Go), AWS, Docker**
-* 💜 &nbsp; interested in **Book, Illustration, International Relations, Jazz**
+* 💜 &nbsp; interested in **[Book](https://github.com/8luebottle/Dev-Bookshelf), Illustration, International Relations, Jazz**
 <br>
 
 <p>
