@@ -5,6 +5,12 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:dev.8luebottle@gmail.com?subject=From%20GitHub&body=Hi,%208luebottle.%20Found%20you%20from%20GitHub.) &nbsp;
 [![LinkedIn Connect](https://img.shields.io/badge/%20-LinkedIn-black?color=0E76A8&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/irentre/) 
 
+<div>
+    <a href="https://www.credly.com/badges/d7c59abd-447b-4fe7-a3bb-7f0301dc42fa">
+    <img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="Solutions Architect Associate" title="AWS" width="80">
+</a>
+</div>
+
 <img width="333" alt="8luebottle" align="right" src="https://user-images.githubusercontent.com/48475824/87215634-674d5c80-c373-11ea-841f-23a8596db286.gif">
 
 #### 🙌  &nbsp; Hi, I'm ENTJ-T
