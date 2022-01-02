@@ -18,7 +18,7 @@
 #### 📣  &nbsp; 学而时习之，不亦说乎
 
 
-* 👩🏻‍💻  &nbsp; currently learning **[Go](https://github.com/8luebottle/8luebottle/wiki/Go), [Python](https://github.com/8luebottle/8luebottle/issues/3), [AWS](https://github.com/8luebottle/AWS-SAA-Note), Docker**
+* 👩🏻‍💻  &nbsp; currently learning **[Go](https://github.com/8luebottle/8luebottle/wiki/Go), [Python](https://github.com/8luebottle/8luebottle/issues/3), [AWS](https://github.com/8luebottle/AWS-SAA-Note), Docker, Kubernetes**
 * 💜 &nbsp; interested in **[Book](https://github.com/8luebottle/Dev-Bookshelf), Illustration, International Relations, Jazz**
 <br>
 
