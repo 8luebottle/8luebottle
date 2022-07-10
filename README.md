@@ -7,7 +7,8 @@
 
 <div>
     <a href="https://www.credly.com/badges/d7c59abd-447b-4fe7-a3bb-7f0301dc42fa">
-    <img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="Solutions Architect Associate" title="AWS" width="80">
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Solutions Architect Associate" title="AWS" width="100">
+    
 </a>
 </div>
 
