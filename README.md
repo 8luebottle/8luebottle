@@ -14,7 +14,7 @@
 
 <img width="333" alt="8luebottle" align="right" src="https://user-images.githubusercontent.com/48475824/87215634-674d5c80-c373-11ea-841f-23a8596db286.gif">
 
-#### 🙌  &nbsp; Hi, I'm ENTJ-T
+#### 🙌  &nbsp; Hi, I'm [ENTJ](https://www.16personalities.com/entj-personality)
 #### 📣  &nbsp; Be the best version of you
 #### 📣  &nbsp; 学而时习之，不亦说乎
 
