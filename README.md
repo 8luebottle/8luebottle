@@ -21,9 +21,3 @@
 
 * 👩🏻‍💻  &nbsp; currently learning **[Go](https://github.com/8luebottle/8luebottle/wiki/Go), [Python](https://github.com/8luebottle/8luebottle/issues/3), [AWS](https://github.com/8luebottle/AWS-SAA-Note), [Docker](https://github.com/8luebottle/TIL#docker), [Kubernetes](https://github.com/8luebottle/TIL#kubernetes)**
 * 💜 &nbsp; interested in **[Book](https://github.com/8luebottle/Dev-Bookshelf), Illustration, International Relations, Jazz**
-<br>
-
-<p>
-  <img height="120" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=8luebottle&hide_title=true&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&theme=algolia">
-  <img height="120" align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8luebottle&hide_title=true&hide=html,css&layout=compact&theme=algolia">
-</p>
